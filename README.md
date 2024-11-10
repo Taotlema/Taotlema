@@ -2,7 +2,7 @@
 - 👀 I’m interested in Artificial Intelligence, and Computers in Biotechnology.
 - 🌱 I’m currently learning Computer Architecture and Databases
 - 💞️ I’m looking to collaborate on Full Stack and Research Projects
-- 📫 You reach me by sending a message to my GitHub Inbox.
+- 📫 You can reach me by sending a message to my GitHub Inbox.
 - 😄 Pronouns: He/Him/His
 
 <!---
