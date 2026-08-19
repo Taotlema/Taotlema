@@ -1,3 +1,4 @@
-- Hi, I’m @Taotlema
-- I’m interested in Artificial Intelligence, and Computers in Biotechnology.
-- Pronouns: He/Him/His
+**@Taotlema: ** Ayemhenre Rein Isikhuemhen
+- UNC-Charlotte Alumni
+  **Interest: **
+  **Background: **
